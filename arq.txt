@@ -2,3 +2,8 @@ https://github.com/sentenza/jekyll-material-design
 
 https://github.com/gurayyarar/AdminBSBMaterialDesign
 
+instalar node
+npm install -g convert-bootstrap-2-to-3
+
+no prompt 
+FOR %A IN ( *.cshtml) DO bs3 -i %A
